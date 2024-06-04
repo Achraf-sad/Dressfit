@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Danfo&family=Seymour+One&display=swap');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body,h2{
+   font-family: "Seymour One", sans-serif;
+   font-size: 18px;
+   margin: 0px;
+}
+
+h1, h3{
+    font-family: "Danfo", serif;
+   font-weight: blond;
+
+}
+
+a{
+   text-decoration: none;
+}
